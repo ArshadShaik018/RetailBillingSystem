@@ -1,0 +1,20 @@
+		***Welcome customer***
+
+Bill number: 7812
+Customer Name: arshad
+Phone Number: shaik
+*******************************************************
+Products			Quantity		Price
+*******************************************************
+Bath Soap			01		20 Rs
+Face Cream			03		150 Rs
+Face Wash			02		300 Rs
+Hair Spray			02		60 Rs
+ Cosmetic Tax				318.0Rs
+ Grocery Tax				0.0Rs
+ Drinks  Tax				0.0Rs
+*******************************************************
+
+arshad your totalbill is 				848.0
+*******************************************************
+
